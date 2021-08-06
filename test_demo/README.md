@@ -6,7 +6,7 @@
 - 包含输入框、下拉框、单选框、弹框、文本框、音频播放、视频播放
 - [参考的资料汇总](https://blog.csdn.net/fdsnsf/article/details/119345323)
 
-![](./Doc/test_demo_1.png)
-![](./Doc/test_demo_2.png)
-![](./Doc/test_demo_3.png)
-![](./Doc/test_demo_4.png)
+![](../Doc/test_demo_1.png)
+![](../Doc/test_demo_2.png)
+![](../Doc/test_demo_3.png)
+![](../Doc/test_demo_4.png)
