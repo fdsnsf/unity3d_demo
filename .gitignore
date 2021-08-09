@@ -1,2 +1,6 @@
 test_demo/Library/*
 test_demo/Logs/*
+test_demo/Temp/*
+ui_animation/Library/*
+ui_animation/Logs/*
+ui_animation/Temp/*
