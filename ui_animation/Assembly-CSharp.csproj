@@ -36,9 +36,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script\water_ripple\RippleEffect.cs" />
-     <Compile Include="Assets\Script\water_ripple\ClickEmit.cs" />
-     <None Include="Assets\Script\water_ripple\RippleEffect.shader" />
+     <Compile Include="Assets\Script\shader_demo\RippleEffect.cs" />
+     <None Include="Assets\Script\shader_demo\Ripple.shader" />
      <None Include="Assets\Script\shader_demo\Demo.shader" />
      <None Include="Assets\Script\shader_demo\Rain.shader" />
     <Reference Include="UnityEngine">
